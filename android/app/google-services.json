@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "32245733236",
+    "project_id": "abhikaro-d2df6",
+    "storage_bucket": "abhikaro-d2df6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:6c461abf71e3f40240be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32245733236:android:91d0c79e7b34b8b340be21",
+        "android_client_info": {
+          "package_name": "com.abhikaro.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj-sS8gCaYMHTaXMWfHjoPx8FBZ5kdHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32245733236-t1ifg7u6kob3e60j13okme5pbruvbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
